@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Caesar Hacker</string>
+    <string name="title_activity_about">Справка</string>
+    <string name="AboutLoh">Этой цифры в коде нет</string>
+    <string name="AboutMove">Эта цифра должна стоять на другом месте</string>
+    <string name="AboutOk">Эта цифра стоит на правильной позиции</string>
+    <string name="AboutGame">Угадайте код по следующим подсказкам:</string>
+    <string name="MenuBtn">Назад в главное меню</string>
+    <string name="EnterBtn">Проверить</string>
+    <string name="Try">Попытка:</string>
+    <string name="Time">Время:</string>
+    <string name="StartBtn">Начать</string>
+    <string name="RandomSwitchOn">Каждая цифра кода уникальна</string>
+    <string name="RandomSwitchOff">Цифры могут повторяться</string>
+</resources>

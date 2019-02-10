@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Caesar Hacker</string>
+    <string name="title_activity_about">Help</string>
+    <string name="AboutLoh">The code does not contain this numeral</string>
+    <string name="AboutMove">The code contains this numeral, but it is wrong place for it</string>
+    <string name="AboutOk">This is correct place for this numeral</string>
+    <string name="AboutGame">You must guess the code according to the next hints:</string>
+    <string name="MenuBtn">Back to main menu</string>
+    <string name="UpBtn" translatable="false">+</string>
+    <string name="DownBtn" translatable="false">-</string>
+    <string name="EnterBtn">Check</string>
+    <string name="Try">Try:</string>
+    <string name="Time">Time:</string>
+    <string name="StartBtn">Start</string>
+    <string name="NoCrail" translatable="false">Written by Nocrail February 2019</string>
+    <string name="RandomSwitchOn">Each numeral unique</string>
+    <string name="RandomSwitchOff">Numerals can be repeated</string>
+</resources>
