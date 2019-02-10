@@ -10,7 +10,11 @@
         android:id="@+id/timer"
         android:layout_width="1dp"
         android:layout_height="1dp"
-        android:visibility="invisible" />
+        android:layout_marginStart="2dp"
+        android:layout_marginLeft="2dp"
+        android:visibility="invisible"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
         android:id="@+id/text1"
